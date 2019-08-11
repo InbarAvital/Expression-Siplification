@@ -8,4 +8,6 @@ basically "take out" variables if needed. It is really cool! :)
 The bonus also includes many other simplifications that I did not do in the basic one,
 you can see examples for all of the simplifications in the "simplificationDemo" file.
 
+Notice you can also download the zip file if you want to run it in your computer :)
+
 Have fun!
